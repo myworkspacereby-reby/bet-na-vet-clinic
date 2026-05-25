@@ -1,0 +1,6 @@
+{
+  "name": "Bet na Vet Clinic",
+  "description": "The online portal and clinical administration hub of Bet na Vet Veterinary Clinic Maasin under Dr. Jasmin Marie Cillo Gerona, DVM. Book wellness visits, traceably secure your pets with ISO microchips, and consult Dr. Jasmin's interactive AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
